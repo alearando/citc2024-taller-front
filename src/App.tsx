@@ -30,6 +30,7 @@ const App: React.FC = () => {
             </div>
             <div>
                 <p>Un cambio cualquiera</p>
+                <p>Segundo cambio</p>
             </div>
 
             {item ? (
