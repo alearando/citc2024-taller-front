@@ -28,6 +28,9 @@ const App: React.FC = () => {
                     Buscar
                 </Button>
             </div>
+            <div>
+                <p>Un cambio cualquiera</p>
+            </div>
 
             {item ? (
                 <p className="mt-4 text-lg font-semibold text-green-600">Item: {item.item}</p>
